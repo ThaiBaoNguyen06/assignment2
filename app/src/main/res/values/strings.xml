@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Car Rental Company</string>
+    <string name="rentButton">Rent</string>
+    <string name="bookedButton">Booked Cars</string>
+    <string name="search">Search For Car</string>
+    <string name="credit">Credit: </string>
+    <string name="name">Name: </string>
+    <string name="model">Model: </string>
+    <string name="year">Year: </string>
+    <string name="km">Distance: </string>
+    <string name="cost">Daily cost: </string>
+    <string name="nextButton">Next</string>
+    <string name="saveButton">Save</string>
+    <string name="backButton">Back</string>
+    <string name="favoriteButton">Your Favorite Cars</string>
+    <string name="carName1">The 8 Convertible</string>
+    <string name="carName2">The Z4</string>
+    <string name="carName3">The BMW X3</string>
+    <string name="carName4">The BMW M3 Sedan</string>
+    <string name="carName5">The BMW iX2</string>
+    <string name="carModel1">The 8</string>
+    <string name="carModel2">Z4</string>
+    <string name="carModel3">X-Range</string>
+    <string name="carModel4">BMW M</string>
+    <string name="carModel5">BMW i</string>
+    <string name="carYear1">2025</string>
+    <string name="carYear2">2025</string>
+    <string name="carYear3">2025</string>
+    <string name="carYear4">2025</string>
+    <string name="carYear5">2025</string>
+    <string name="carKm1">10,000-30,000km</string>
+    <string name="carKm2">20,000-42,000km</string>
+    <string name="carKm3">10,000-30,000km</string>
+    <string name="carKm4">5,000-20,000km</string>
+    <string name="carKm5">5,000-15,000km</string>
+    <string name="carCost1">$30/day</string>
+    <string name="carCost2">$35/day</string>
+    <string name="carCost3">$25/day</string>
+    <string name="carCost4">$40/day</string>
+    <string name="carCost5">$30/day</string>
+    <string name="favoriteCarFragment">Your Favorite Car</string>
+    <string name="emptyFavCar">You do not have Favorite Car</string>
+    <string name="exitDetail">Exit</string>
+    <string name="rentDays">Day: </string>
+    <string name="search_title">Car searching: </string>
+
+</resources>
